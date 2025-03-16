@@ -1,5 +1,5 @@
 # 🚀 Welcome to Mandal Automations
-### Created By: @evanallen13
+### Created By: [@evanallen13](https://github.com/evanallen13)
 
 This organization is home to my open-source projects focused on **GitHub automation** and **AI-driven solutions**. Here, you'll find tools, workflows, and integrations designed to enhance DevOps efficiency, streamline software development, and leverage AI to optimize automation.
 
